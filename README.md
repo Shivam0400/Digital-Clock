@@ -30,8 +30,9 @@ Check out the live demo of the digital clock [here](https://shivam0400.github.io
    ```bash
    git clone https://github.com/Shivam0400/Digital-Clock.git
  2. Navigate to the project folder
+    ```bash
      cd Digital-Clock
-3. Open index.html in a web browser.
+ 3. Open index.html in a web browser.
 Simply open the file in any browser to see the clock in action.
 
 ## 🏗️ How It Works
