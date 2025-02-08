@@ -22,7 +22,7 @@ Check out the live demo of the digital clock [here](https://shivam0400.github.io
 
 ## 📷 Screenshot
 
-![Digital Clock Preview](digital_clock.jpg)
+![Digital Clock Preview](digital_clock.png)
 
 ## 🚀 How to Use
 
