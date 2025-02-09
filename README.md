@@ -8,7 +8,7 @@ Check out the live demo of the digital clock [here](https://shivam0400.github.io
 
 ## 📌 Features
 
-- Displays real-time hours, minutes, and seconds.
+- Displays real-time hours, minutes, and seconds..
 - 12-hour or 24-hour format (if implemented).
 - Responsive design for different screen sizes.
 - Smooth animations for a visually appealing look.
